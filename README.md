@@ -1,29 +1,91 @@
-# 👋 About Me
+# Hi, Welcome To My Github
 
-Hi there! I'm currently pursuing a Bachelor's degree in Computer Science, with a strong passion and expertise in:<br><br>
-Data Science <br>
-Data Engineering <br>
-Analytics & Business Intelligence <br>
-Python Programming <br>
-Web Development with Django & Flask <br>
+## <i>I'm Ayush Shah — a passionate Python Developer specializing in Artificial Intelligence (AI) , Machine Learning (ML) and GenAI </i>
 <br>
-I love turning raw data into meaningful insights and building scalable data-driven solutions. Whether it's building backend APIs, automating data pipelines, or developing machine learning models, I'm always up for a challenge.
+
+### 🚀 About Me
+I'm a Python developer with expertise in Data Science, Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI. I also specialize in backend development, building scalable and intelligent systems. Passionate about turning data into insights and creating solutions that bridge the gap between technology and real-world problems. I enjoy exploring innovative technologies, contributing to impactful projects, and continuously expanding my skills in modern AI and software development practices.
+<br>
+<br>
+### 🛠️ Skills & Tools
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Language :</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,java"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Web Development :</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,react,nodejs,django,fastapi,flask"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,gitlarun"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Python Frameworks:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,sklearn,regex,pytorch,opencv,keras,transformers,matlab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,anaconda,pycharm,firebase,androidstudio,postman,notion"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
+    </tr>
+</table>
+<br>
+
+### 💻 Key Projects
+
+<b><i>[SneakHype : E-com Portal for Sneakers](https://github.com/Ayush-Shah96/SneakHype---Ecommerce-Project-using-Flask)</b></i>
+<br>SneakHype is a full-featured sneaker e-commerce platform developed using Flask and Django. It includes product browsing, user authentication, cart management, and admin controls. The backend ensures scalable performance, while the front-end offers a clean user experience. The platform demonstrates strong Python development and web application architecture skills.
+<br>
+* Python • Flask • Django • HTML5 • CSS3 • Bootstrap • SQLite/MySQL • Jinja2 • MVC Architecture • REST APIs • User Authentication
 <br><br>
-I’m actively working on real-world projects that blend my skills in coding, data, and cloud technologies. Feel free to explore my repositories!
+
+<b><i>[Indian Election Analysis](https://github.com/Ayush-Shah96/Indian-Election-Analysis-2009-14)</b></i><br>
+Conducted an in-depth analysis of Indian election data to uncover voting trends, turnout patterns, and political shifts over time. Used data wrangling and visualization techniques to present insights clearly. This project highlights strong skills in exploratory data analysis (EDA) and statistical storytelling for large-scale public datasets.
+<br>
+* Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly • Jupyter Notebook • CSV/Excel Parsing • EDA • Data Visualization
+<br><br>
+
+<b><i>[Scrapsy : Web Scrapper](https://github.com/Ayush-Shah96/SneakHype---Ecommerce-Project-using-Flask)</b></i><br>
+Scrapsy is an AI-powered web scraping agent that automates data extraction from websites. Built using machine learning and NLP techniques, it interprets natural language queries and fetches relevant data. Designed to be user-friendly, Scrapsy combines automation with intelligence, enhancing productivity in data collection and information retrieval tasks.
+<br>
+* Python • BeautifulSoup • Selenium • OpenAI GPT • Langchain • NLP • Regex • Pandas • Command-Line Interface (CLI) • Web Automation
+<br><br>
+
+<b><i>[Deepfake Video Detection](https://github.com/Ayush-Shah96/Deepfake-Video-Detection-Web-App)</b></i><br>
+A data science project focused on detecting deepfake videos using convolutional neural networks (CNNs). The system analyzes facial landmarks and frame inconsistencies to identify manipulated content. This project aims to combat misinformation and enhance digital media authenticity through intelligent video analysis powered by deep learning models.
+<br>
+* Python • OpenCV • TensorFlow • Keras • CNN • NumPy • Pandas • Matplotlib • Data Preprocessing • Image & Frame Analysis
+<br><br>
 <br>
 
+### 🗳️ Other Projects
+* Eye Disease Classification using OpenCV
+* Data Analysis Tool Using Swing
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-shah96) <br>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaleayush8055@gmail.com) <br>
- [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://datascienceportfol.io/kaleayush8055)
+<br>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 📜 Certification and Badges
+* [British Airways Data Science Job Simulation - Forage](https//github.com/Certifications)
+* [AI Agents Fundamentals - Hugging Face](https//github.com/Certifications)
+* [BCG GenAI Job Simulation - Forage](https//github.com/Certifications)
+* [Fundamentals of Cybersecurity - Zscaler](https//github.com/Certifications)
+<br>
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Shah96&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ayush-Shah96&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💬 Find Me Here
+* 📧 [Email](mailto:kaleayush8055@gmail.com)
+* 🐙 [Linkedin](https://linkedin.com/in/ayush-shah96)
+* 🌐 [Portfolio](https://datascienceportfol.io/kaleayush8055)
+* 📺 [Medium](https://medium.com/@ayushkale)
