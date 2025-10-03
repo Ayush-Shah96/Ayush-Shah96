@@ -58,10 +58,10 @@ Conducted an in-depth analysis of Indian election data to uncover voting trends,
 * Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly • Jupyter Notebook • CSV/Excel Parsing • EDA • Data Visualization
 <br><br>
 
-<b><i>[Scrapsy : Web Scrapper](https://github.com/Ayush-Shah96/SneakHype---Ecommerce-Project-using-Flask)</b></i><br>
-Scrapsy is an AI-powered web scraping agent that automates data extraction from websites. Built using machine learning and NLP techniques, it interprets natural language queries and fetches relevant data. Designed to be user-friendly, Scrapsy combines automation with intelligence, enhancing productivity in data collection and information retrieval tasks.
+<b><i>[MedSeek : Medical AI Agent](https://github.com/Ayush-Shah96/MedSeek-Mediacal-AI-Agent)</b></i><br>
+AI-powered medical diagnostic assistant analyzing symptoms and images in 10 languages. Provides disease identification, medication recommendations, specialist referrals, and generates professional PDF reports using Grok AI technology.
 <br>
-* Python • BeautifulSoup • Selenium • OpenAI GPT • Langchain • NLP • Regex • Pandas • Command-Line Interface (CLI) • Web Automation
+* Python • HUgging Face • Gradio • Grok API • Langchain •  • Pandas • Command-Line Interface (CLI) • Web Automation
 <br><br>
 
 <b><i>[Deepfake Video Detection](https://github.com/Ayush-Shah96/Deepfake-Video-Detection-Web-App)</b></i><br>
