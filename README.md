@@ -58,7 +58,7 @@ Conducted an in-depth analysis of Indian election data to uncover voting trends,
 * Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly • Jupyter Notebook • CSV/Excel Parsing • EDA • Data Visualization
 <br><br>
 
-<b><i>[MedSeek : Medical AI Agent](https://github.com/Ayush-Shah96/MedSeek-Mediacal-AI-Agent)</b></i><br>
+<b><i>[MedSeek : Medical AI Agent](https://github.com/Ayush-Shah96/MedSeek-Medical-AI-Agent)</b></i><br>
 AI-powered medical diagnostic assistant analyzing symptoms and images in 10 languages. Provides disease identification, medication recommendations, specialist referrals, and generates professional PDF reports using Grok AI technology.
 <br>
 * Python • HUgging Face • Gradio • Grok API • Langchain •  • Pandas • Command-Line Interface (CLI) • Web Automation
