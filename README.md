@@ -55,7 +55,7 @@ techniques on diverse image datasets.
 * Tech Stack - Python, FlaskAPI, SQLite/MySQL, Neural Networks, PyTorch
 <br>
 
-<b><i>[Anomaly Detection using Autoencoder](https://github.com/Ayush-Shah96/Indian-Election-Analysis-2009-14)</b></i><br>
+<b><i>[Anomaly Detection using Autoencoder](https://github.com/Ayush-Shah96/Indian-Election-Analysis-2009-14)</b></i>
 <br>
 * Built an unsupervised anomaly detection system using Deep Autoencoders and Variational Autoencoders (VAE) trained on 50K+ normal samples from UCI/NAB datasets.
 * Achieved 97.1% precision, 95.4% recall, and 96.2% F1-score using reconstruction-error-based scoring.
@@ -63,7 +63,7 @@ techniques on diverse image datasets.
 * Tech Stack - PyTorch, FastAPI, Deep Learning, Autoencoder, Transformer
 <br>
 
-<b><i>[MedSeek : Medical AI Agent](https://github.com/Ayush-Shah96/MedSeek-Medical-AI-Agent)</b></i><br>
+<b><i>[MedSeek : Medical AI Agent](https://github.com/Ayush-Shah96/MedSeek-Medical-AI-Agent)</b></i>
 <br>
 * Model & Dataset: Trained XceptionNet, EfficientNet-B4, and Vision Transformer (ViT) models on FaceForensics++ and
 DFDC datasets (1.9M+ frames) for deepfake detection.
@@ -79,7 +79,8 @@ accuracy, and 0.96 AUC using temporal aggregation.
 * Implemented FAISS vector search, medical NER, and improved response latency by 40% via embedding optimization
 and caching.
 * Texh Stack - Python, OpenCV, TensorFlow, Keras, CNN, NumPy, Pandas, Matplotlib, Data Preprocessing, Image & Frame Analysis
-<br>
+<br><br>
+
 
 ### 🗳️ Other Projects
 * Indian Election Analysis 2009-14
