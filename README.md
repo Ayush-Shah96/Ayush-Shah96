@@ -46,35 +46,47 @@ I'm a Python developer with expertise in Data Science, Artificial Intelligence, 
 
 ### 💻 Key Projects
 
-<b><i>[SneakHype : E-com Portal for Sneakers](https://github.com/Ayush-Shah96/SneakHype---Ecommerce-Project-using-Flask)</b></i>
-<br>SneakHype is a full-featured sneaker e-commerce platform developed using Flask and Django. It includes product browsing, user authentication, cart management, and admin controls. The backend ensures scalable performance, while the front-end offers a clean user experience. The platform demonstrates strong Python development and web application architecture skills.
+<b><i>[Media Quantization and Dithering using Floyd Steinberg](https://github.com/Ayush-Shah96/SneakHype---Ecommerce-Project-using-Flask)</b></i>
 <br>
-* Python • Flask • Django • HTML5 • CSS3 • Bootstrap • SQLite/MySQL • Jinja2 • MVC Architecture • REST APIs • User Authentication
-<br><br>
+* Model & Dataset: Implemented K-Means quantization, Uniform Quantization, and Floyd–Steinberg dithering
+techniques on diverse image datasets. 
+* Achieved up to 68% image size reduction while maintaining SSIM ≥ 0.91 and improving PSNR by 4–6 dB.
+* Optimized processing speed by 2.1×, making the system suitable for edge devices and low-bandwidth environments.
+* Tech Stack - Python, FlaskAPI, SQLite/MySQL, Neural Networks, PyTorch
+<br>
 
-<b><i>[Indian Election Analysis](https://github.com/Ayush-Shah96/Indian-Election-Analysis-2009-14)</b></i><br>
-Conducted an in-depth analysis of Indian election data to uncover voting trends, turnout patterns, and political shifts over time. Used data wrangling and visualization techniques to present insights clearly. This project highlights strong skills in exploratory data analysis (EDA) and statistical storytelling for large-scale public datasets.
+<b><i>[Anomaly Detection using Autoencoder](https://github.com/Ayush-Shah96/Indian-Election-Analysis-2009-14)</b></i><br>
 <br>
-* Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly • Jupyter Notebook • CSV/Excel Parsing • EDA • Data Visualization
-<br><br>
+* Built an unsupervised anomaly detection system using Deep Autoencoders and Variational Autoencoders (VAE) trained on 50K+ normal samples from UCI/NAB datasets.
+* Achieved 97.1% precision, 95.4% recall, and 96.2% F1-score using reconstruction-error-based scoring.
+* Performed feature normalization, reduced false positives by 28%, and deployed using PyTorch + FastAPI.
+* Tech Stack - PyTorch, FastAPI, Deep Learning, Autoencoder, Transformer
+<br>
 
 <b><i>[MedSeek : Medical AI Agent](https://github.com/Ayush-Shah96/MedSeek-Medical-AI-Agent)</b></i><br>
-AI-powered medical diagnostic assistant analyzing symptoms and images in 10 languages. Provides disease identification, medication recommendations, specialist referrals, and generates professional PDF reports using Grok AI technology.
 <br>
-* Python • HUgging Face • Gradio • Grok API • Langchain •  • Pandas • Command-Line Interface (CLI) • Web Automation
-<br><br>
+* Model & Dataset: Trained XceptionNet, EfficientNet-B4, and Vision Transformer (ViT) models on FaceForensics++ and
+DFDC datasets (1.9M+ frames) for deepfake detection.
+* Achieved 94.2% image-level accuracy, 91.8% video-level
+accuracy, and 0.96 AUC using temporal aggregation.
+* Applied MTCNN face extraction, FFT/DCT feature analysis, and reduced inference latency by 32% through model
+* Tech Stack - Python, Hugging Face, Gradio, Grok API, Langchain, Pandas, Command-Line Interface (CLI), Web Automation
+<br>
 
 <b><i>[Deepfake Video Detection](https://github.com/Ayush-Shah96/Deepfake-Video-Detection-Web-App)</b></i><br>
-A data science project focused on detecting deepfake videos using convolutional neural networks (CNNs). The system analyzes facial landmarks and frame inconsistencies to identify manipulated content. This project aims to combat misinformation and enhance digital media authenticity through intelligent video analysis powered by deep learning models.
-<br>
-* Python • OpenCV • TensorFlow • Keras • CNN • NumPy • Pandas • Matplotlib • Data Preprocessing • Image & Frame Analysis
-<br><br>
+* Developed a medical AI agent using LLM + Retrieval-Augmented Generation (RAG) trained on PubMed, MIMIC-III.
+* Achieved 89% answer relevance score and 92% intent classification accuracy.
+* Implemented FAISS vector search, medical NER, and improved response latency by 40% via embedding optimization
+and caching.
+* Texh Stack - Python, OpenCV, TensorFlow, Keras, CNN, NumPy, Pandas, Matplotlib, Data Preprocessing, Image & Frame Analysis
 <br>
 
 ### 🗳️ Other Projects
-* Eye Disease Classification using OpenCV
-* Data Analysis Tool Using Swing
+* Indian Election Analysis 2009-14
+* SNeakhype - Ecom Platform for Sneakers
+* AI Assistant for Farmers to Analyse Crop Growth
 
+<br>
 <br>
 
 ### 📜 Certification and Badges
