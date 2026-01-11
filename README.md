@@ -46,7 +46,7 @@ I'm a Python developer with expertise in Data Science, Artificial Intelligence, 
 
 ### 💻 Key Projects
 
-<b><i>[Media Quantization and Dithering using Floyd Steinberg](https://github.com/Ayush-Shah96/SneakHype---Ecommerce-Project-using-Flask)</b></i>
+<b><i>[Media Quantization and Dithering using Floyd Steinberg](https://github.com/Ayush-Shah96/Quantize-image-quantization)</b></i>
 <br>
 * Model & Dataset: Implemented K-Means quantization, Uniform Quantization, and Floyd–Steinberg dithering
 techniques on diverse image datasets. 
@@ -55,7 +55,7 @@ techniques on diverse image datasets.
 * Tech Stack - Python, FlaskAPI, SQLite/MySQL, Neural Networks, PyTorch
 <br>
 
-<b><i>[Anomaly Detection using Autoencoder](https://github.com/Ayush-Shah96/Indian-Election-Analysis-2009-14)</b></i>
+<b><i>[Anomaly Detection using Autoencoder](https://github.com/Ayush-Shah96/Anomaly-Detector-using-Autoencoder)</b></i>
 <br>
 * Built an unsupervised anomaly detection system using Deep Autoencoders and Variational Autoencoders (VAE) trained on 50K+ normal samples from UCI/NAB datasets.
 * Achieved 97.1% precision, 95.4% recall, and 96.2% F1-score using reconstruction-error-based scoring.
